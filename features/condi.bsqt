@@ -1,0 +1,58 @@
+condigana.
+
+condi:
+te janet conditionprigana.
+sol janet conditionprigana.
+phoo janet conditionprigana.
+serif janet conditionprigana.
+gitaq janet conditionprigana.
+te janet condition2ana.
+sol janet condition2ana.
+serif janet condition2ana.
+gitaq janet condition2ana.
+a) down up seq
+down = up janxi haanavana.
+sec)
+a) down up semu
+down semu up janxi haanavana.
+sec)
+
+condition:
+iket janxi wahbesagana.
+a) thek yii phoo basycho
+"input > 5" janxi wahana.
+a.1) thek besa neel basycho
+"input > 10" janxi wahana.
+a.2) thek te
+"input <= 10 " janxi wahana.
+b) thek te
+"input <= 5" janxi wahana.
+b.1) thek besa da bosamysoor
+"input <= 2" janxi wahana.
+b.2) thek te
+"input > 2" janxi wahana.
+sec)
+yii janxi nnagana.
+
+condition2:
+iket janxi wahbesagana.
+a) thek yii phoo basycho
+"input > 5" janxi haanavana.
+a.1) thek besa neel basycho
+"input > 10" janxi haanavana.
+a.2) thek te
+"input <= 10" janxi haanavana.
+sec.a)
+"end branch a." janxi haanavana.
+b) thek te
+"input <= 5" janxi haanavana.
+b.1) thek besa da bosamysoor
+"input <= 2" janxi haanavana.
+b.2) thek te
+"input > 2" janxi haanavana.
+sec.b)
+"end branch b." janxi haanavana.
+sec)
+final = yii janxi haanavana.
+
+

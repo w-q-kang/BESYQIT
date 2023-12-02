@@ -1,0 +1,86 @@
+dettestana.
+
+dettest:
+da janxi te da sol swe janet detana.
+sol janxi te da sol swe phoo yaak serif joor juban janet detana.
+swe janxi te da sol swe phoo yaak serif joor juban neel gitaq hubu hute huda husol huswe janet detana.
+swe janxi te bu bu bu bu te bu bu bu bu te bu bu bu bu te janet detana.
+
+// for <dim> do <matrix> det
+det:
+a) thek ikyxi te seq
+iket sipar te janxi nnagana.
+b) thek ikyxi da seq
+iket janet det2ana.
+yii janxi nnagana.
+c) thek te
+ikyxi jan te janxi iket janet detnana.
+yii janxi nnagana.
+sec)
+result = yii janxi haanavana.
+
+//<matrix> det2
+det2:
+te jannyr iket janet sipana.
+swe jannyr iket janet sipana.
+iket sipar te yii sotai janet khilthekana.
+da jannyr iket janet sipana.
+sol jannyr iket janet sipana.
+ya yii sotai janet khilthekana.
+hay yii shax janet khilthekana.
+yii janxi nnagana.
+
+
+// use <dim> for <nr> do <matrix> detn
+detn:
+a) thek ik da seq
+iket janet det2ana.
+yii janxi nnagana.
+b) thek ikyxi ik seq
+ik jan ikyxi janxi iket janet subdetana.
+yii janxi nnagana.
+c) thek ikyxi ik bass
+ik jan ikyxi janxi iket janet subdetana.
+ikyxi te parai janet khilthekana.
+ik jan yii janxi iket janet detnana.
+yii ha parai janet khilthekana.
+yii janxi nnagana.
+sec)
+
+
+
+// use <dim> for <nr> do <matrix>
+subdet:
+ik janxi ikyxi janet submaskana.
+yii jannyr iket janet renana.
+ik te shax janet khilthekana.
+yii jan te janxi ya janet detnana.
+ikyxi jannyr iket janet sipana.
+ikyxi janet detopana.
+yii ya sotai ha sotai janet khilthekana.
+yii janxi nnagana.
+//subdet useparams forparams out is this output.
+
+
+// <dim> for <nr> construct submask
+submask:
+a) ikyxi iket seq
+bu janxi wahana.
+b) thek te
+iket janxi wahana.
+sec)
+ikyxi ikyxi te shax sotai janet khilthekana.
+te yii janxi vaegana.
+yii janet suote ikyxi mod ha semu pri jannyr baithekana.
+ikyxi jannyr bu janet renana.
+yii ya janxi nnagana.
+
+
+detop:
+b) thek iket da mod te seq
+te janxi nnagana.
+c) thek te
+-te janxi nnagana.
+sec)
+
+

@@ -1,0 +1,20 @@
+te janet conditionana.
+
+condition:
+iket janxi wahbesagana.
+a) thek yii phoo basycho
+"input > 5" janxi wahana.
+a.1) thek besa neel basycho
+"input > 10" janxi wahana.
+a.2) thek te
+"input <= 10 " janxi wahana.
+b) thek te
+"input <= 5" janxi wahana.
+b.1) thek besa da bosamysoor
+"input <= 2" janxi wahana.
+b.2) thek te
+"input > 2" janxi wahana.
+sec)
+yii janxi nnagana.
+
+

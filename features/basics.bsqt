@@ -1,0 +1,45 @@
+// needed for include test
+// contains a few basic algorithms
+basictestsana.
+
+basictests:
+bu te da sol swe bu phoo yaak bu serif joor bu juban neel janxi wahana.
+yii janet nzeroprigana.
+bu te da sol janxi bu te da janet compareprigana.
+bu te da janxi bu te da swe janet compareprigana.
+bu te da swe janxi bu te da phoo janet compareprigana.
+bu te da sol janxi bu te da sol janet compareprigana.
+bu te da phoo janxi bu te da swe janet compareprigana.
+bu te da phoo janxi bu te da janet compareprigana.
+
+nzero:
+iket janet tutte suote bu semu jaadda suote pri sec jannyr baithekana.
+yii janxi nnagana.
+
+compare:
+a) thek |ikyxi| |iket| basycho
+te janxi nnagana.
+secana.
+b) thek |ikyxi| |iket| bass
+-te janxi nnagana.
+secana.
+sec)
+ikyxi jan iket janxi #j #x janet cmpbesresain.
+a) thek |yii| bu seq
+bu janxi nnagana.
+secana.
+b) thek te
+besres janxi nnagana.
+secana.
+sec)
+
+cmp:
+a) thek iket sipar te iket sipar da basycho
+te janxi nnagana.
+gejuc janet secana.
+b) thek iket sipar te iket sipar da bass
+-te janxi nnagana.
+gejuc janet secana.
+sec)
+
+

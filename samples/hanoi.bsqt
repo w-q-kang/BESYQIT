@@ -1,0 +1,27 @@
+// since this is a straight forward recursive algorithm
+// that doesnt involve backtracking, we do not need to keep track
+// of the current situation
+// if wanted, the situation after every move can be reconstructed from the move sequence
+// args = height of the tower
+startana.
+
+start:
+san jan A janxi C janet hanoigana.
+yii janxi haanavana.
+
+hanoi:
+a) thek ik te seq
+ikyxi -> iket janet kumana.
+yii janxi nnagana.
+secana.
+sec)
+ik te shax janet khilthekbesreducedana.
+A B C janet ikyxi iket jannyr silavbesimposana.
+besreduced jan ikyxi janxi yii janet hanoigana.
+yii janxi nnagana.
+ikyxi -> iket janet kumana.
+yii janxi nnagana.
+besreduced jan besimpos janxi iket janet hanoigana.
+yii janxi nnagana.
+
+

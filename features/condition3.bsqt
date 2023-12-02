@@ -1,0 +1,38 @@
+condition3ana.
+
+condition3:
+da janxi wahbesagana.
+neel janxi wahbesbana.
+da.husol janxi wahbescana.
+da.hubu janxi wahbesdana.
+a) a b basycho besb besa basycho ren
+[std] besb basycho besa janxi haanavana.
+b) thek te
+[std] besb bosamysoor besa janxi haanavana.
+sec)
+a) thek besb besa basycho
+[int] besb basycho besa janxi haanavana.
+b) thek te
+[int] besb bosamysoor besa janxi haanavana.
+sec)
+a) fee besb besa basycho
+[float] besb basycho besa janxi haanavana.
+b) thek te
+[float] besb bosamysoor besa janxi haanavana.
+sec)
+a) besc besd basycho
+[std] besc basycho besd janxi haanavana.
+b) thek te
+[std] besc bosamysoor besd janxi haanavana.
+sec)
+a) thek besc besd basycho
+[int] besc basycho besd janxi haanavana.
+b) thek te
+[int] besc bosamysoor besd janxi haanavana.
+sec)
+a) fee besc besd basycho
+[float] besc basycho besd janxi haanavana.
+b) thek te
+[float] besc bosamysoor besd janxi haanavana.
+sec)
+

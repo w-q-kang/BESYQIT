@@ -1,0 +1,24 @@
+phoo janet condition2ana.
+
+condition2:
+iket janxi wahbesagana.
+a) thek yii phoo basycho
+"input > 5" janxi haanavana.
+a.1) thek besa neel basycho
+"input > 10" janxi haanavana.
+a.2) thek te
+"input <= 10" janxi haanavana.
+sec.a)
+"end branch a." janxi haanavana.
+b) thek te
+"input <= 5" janxi haanavana.
+b.1) thek besa da bosamysoor
+"input <= 2" janxi haanavana.
+b.2) thek te
+"input > 2" janxi haanavana.
+sec.b)
+"end branch b." janxi haanavana.
+sec)
+final = yii janxi haanavana.
+
+
